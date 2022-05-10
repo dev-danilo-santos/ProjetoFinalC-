@@ -34,3 +34,4 @@ C:\Users\danil\source\repos\ProjetoFinal\ProjetoFinal\obj\Debug\netcoreapp2.1\Pr
 C:\Users\danil\source\repos\ProjetoFinal\ProjetoFinal\obj\Debug\netcoreapp2.1\ProjetoFinal.pdb
 C:\Users\danil\source\repos\ProjetoFinal\ProjetoFinal\obj\Debug\netcoreapp2.1\ProjetoFinal.genruntimeconfig.cache
 C:\Users\danil\source\repos\ProjetoFinal\ProjetoFinal\obj\Debug\netcoreapp2.1\ProjetoFinal.csproj.CopyComplete
+C:\Users\danil\source\repos\ProjetoFinal\ProjetoFinal\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
